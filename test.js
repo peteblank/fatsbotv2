@@ -1,5 +1,5 @@
 const TeleBot = require('telebot');
-const bot = new TeleBot('1492962512:AAGX7G1JPt6ZiKLNtfoldF2MVditgERja1U');//change
+const bot = new TeleBot('');//change
 axios=require('axios');
 const CoinGecko = require('coingecko-api');
 const cg = new CoinGecko();
